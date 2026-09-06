@@ -31,7 +31,7 @@ The backend is maintained separately in the `stepin.api` repository and uses C# 
 
 ## Prerequisites
 
-- Node.js 24.x
+- Node.js >=24.15 <25
 - npm 11.x
 
 The expected Node.js version is also defined in `.node-version`.
